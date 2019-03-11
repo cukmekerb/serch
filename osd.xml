@@ -1,4 +1,4 @@
-<OpenSearchDesciption xmlns="http://a9.com/-/spec/opensearch/1.1/"
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
                       xmlns:moz="http://www.mozilla.org/2006/browser/search/">
                       <ShortName>SERCH</ShortName>
                       <Description>SEE WHAT APPERS ON THE INTERWEBZ</Description>
@@ -6,6 +6,6 @@
                       <Image width="200" height="200" type="image/png">https://addons.cdn.mozilla.net/user-media/userpics/13/13697/13697600.png?modified=1523290245</Image>
                       <Url type="text/html" method="get" template="https://cukmekerb.gq/serch/?q={searchTerms}" />
                       <moz:SearchForm>https://cukmekerb.gq/serch/</moz:SearchForm>
-                      </OpenSearchDesciption>
+                      </OpenSearchDescription>
                       
                       
